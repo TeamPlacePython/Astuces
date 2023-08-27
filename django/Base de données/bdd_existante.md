@@ -1,4 +1,5 @@
-25/09/2023
+25/08/2023
+
 <h1 align="center">Utiliser une Base de Données Existante avec Django</h1>
 
 Nous le savons tous : lorsqu'on commence un nouveau projet Django, ce n'est pas toujours sur une nouvelle base de données. Parfois, nous avons déjà une base de données remplie de précieuses informations. Comment faire pour que Django travaille avec cette base, sans la reconstruire de zéro ?

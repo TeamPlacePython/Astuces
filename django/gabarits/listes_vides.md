@@ -1,4 +1,5 @@
-23/09/2023
+23/08/2023
+
 <h1 align="center">Gérer les Listes Vides dans les Boucles for des Templates Django</h1>
 
 Lorsque vous utilisez une boucle `for` dans vos templates Django pour afficher des éléments d'une liste, que se passe-t-il si cette liste est vide ? Vous voudriez sans doute afficher un message spécifique dans ce cas-là, n'est-ce pas ?

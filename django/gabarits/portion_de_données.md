@@ -1,4 +1,5 @@
-20/09/2023
+20/08/2023
+
 <h1 align="center">Afficher une Portion de Données avec le Filtre "slice" dans les Templates Django</h1>
 
 Lorsque vous travaillez avec des données dans Django, il est courant de vouloir afficher seulement une portion d'une chaîne de caractères ou d'une liste. Par exemple, vous pourriez vouloir montrer seulement les 10 premiers caractères d'une description ou les 5 premiers articles d'une liste.

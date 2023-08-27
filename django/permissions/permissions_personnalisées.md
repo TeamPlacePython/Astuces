@@ -1,4 +1,5 @@
-24/09/2023
+24/08/2023
+
 <h1 align="center">Créer des Permissions Personnalisées dans Django pour Restreindre l'Accès</h1>
 
 Vous est-il déjà arrivé de vouloir restreindre certaines fonctionnalités de votre application web uniquement à des utilisateurs spécifiques ? Imaginez que vous créez une boutique en ligne et que vous voulez que seulement certains membres de votre équipe aient accès aux statistiques des ventes. Plutôt que de créer un nouvel utilisateur ou groupe à chaque fois, il est bien plus efficace de définir des permissions personnalisées. Voilà comment faire avec Django.

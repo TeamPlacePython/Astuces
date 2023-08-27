@@ -1,4 +1,5 @@
-22/09/2023
+22/08/2023
+
 <h1 align="center">Modifier la Casse des Textes avec les Filtres dans les Templates Django</h1>
 
 Lorsque vous travaillez avec des textes dans Django, il se peut que vous souhaitiez changer la casse de certaines chaînes de caractères. Par exemple, peut-être voulez-vous que le premier caractère soit en majuscule ou que tout le texte soit en majuscules ou minuscules.

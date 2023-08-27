@@ -1,4 +1,5 @@
-24/09/2023
+24/08/2023
+
 <h1 align="center">Afficher Dynamiquement du Contenu dans les Templates</h1>
 
 Django en Fonction des Permissions

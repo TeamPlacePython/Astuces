@@ -1,4 +1,5 @@
-21/09/2023
+21/08/2023
+
 <h1 align="center">Formater les Dates dans les Templates Django avec le Filtre "date"</h1>
 
 Lorsque vous travaillez avec des dates dans Django, vous voudrez peut-être les afficher sous un format spécifique ou les filtrer d'une manière particulière.
