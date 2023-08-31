@@ -108,7 +108,7 @@ __________
 
 <h2 align="center">Publication X</h2>
 
-<a href="https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/balises/actions.md)https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/balises/actions.md" target="_blank">04/09/2013 - actions</a>
+<a href="https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/balises/actions.md" target="_blank">04/09/2013 - actions</a>
 
 <a href="https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/methodes.md/defaut_router.md" target="_blank">05/09/2013 - defaut router</a>
 
