@@ -54,4 +54,4 @@ __________
 
 **Astuce (Nuit) - Chapitre 3/3**
 "🛠️ Mise en Pratique 🛠️"
-"Dans l'exemple, nous avons créé une action 'activer' pour les profils d'utilisateurs. Elle permet d'activer un profil en un clic. Expérimentez avec @action pour personnaliser vos endpoints et rendre vos API plus expressives et puissantes ! 💪🌟 #Django #DRF"
+"Dans l'exemple, nous avons créé une action 'activer' pour les profils d'utilisateurs. Elle permet d'activer un profil en un clic. Expérimentez avec @action pour personnaliser vos endpoints et rendre vos API plus expressives et puissantes ! 💪🌟
