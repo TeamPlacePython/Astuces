@@ -62,3 +62,25 @@ class CommandeSerializer(serializers.ModelSerializer):
 Dans cet exemple, notez comment le `DetailCommandeSerializer` est utilisé pour gérer les produits liés à une commande par la relation plusieurs à plusieurs. Lorsque vous enregistrez une nouvelle commande, la méthode `create` dans `CommandeSerializer` s'occupe également de créer les détails de la commande.
 
 Maintenant que vous avez vu comment créer des sérialiseurs imbriqués pour l'écriture avec DRF, pourquoi ne pas essayer cette approche dans votre propre projet ? Cela rendra vos API plus puissantes et flexibles en permettant l'enregistrement d'objets liés en une seule requête. C'est une manière efficace d'améliorer la structure et la performance de vos APIs.
+
+
+07/09/2023
+
+<h1 align="center">X</h1>
+
+**Question**
+Simplifiez l'enregistrement d'objets liés en une seule requête avec DRF en utilisant des sérialiseurs imbriqués !
+
+**Indice)**
+Sérialiseurs imbriqués : l'efficacité de l'enregistrement d'objets liés en une seule requête avec DRF. Découvrez comment !
+
+**Astuce**
+Sérialiseurs Imbriqués pour des Enregistrements Efficients
+Imaginez enregistrer à la fois une commande et ses produits associés en une seule requête. Les sérialiseurs imbriqués de DRF rendent cela possible. Découvrez comment les utiliser !
+
+Exemple de Commerce Électronique
+Dans une application de commerce électronique, les sérialiseurs imbriqués simplifient l'enregistrement de commandes et de leurs produits. Regardez cet exemple concret pour mieux comprendre.
+
+Rendre Vos APIs Puissantes et Flexibles
+En utilisant des sérialiseurs imbriqués, vous améliorez la structure et la performance de vos APIs. Essayez cette approche dans votre projet pour une gestion efficace des objets liés en une seule requête.
+
