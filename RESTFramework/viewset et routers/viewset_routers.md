@@ -69,3 +69,25 @@ En résumé :
 - Un Router génère automatiquement les URLs pour les ViewSets, simplifiant la définition des URLs de votre API.
 
 Astuce bonus : Si vous ne voulez pas utiliser toutes les actions fournies par ModelViewSet, vous pouvez hériter de ReadOnlyModelViewSet pour limiter les méthodes disponibles.
+
+
+08/09/2023
+
+<h1 align="center">X</h1>
+
+**Question**
+Explorez les ViewSets et les Routers de Django Rest Framework (DRF) pour simplifier la création d'API !
+
+**Indice**
+ViewSets et Routers : Simplifiez la création d'API dans DRF. Découvrez comment économiser du temps et du code !
+
+**Astuce**
+Qu'est-ce qu'un ViewSet ?
+Un ViewSet dans DRF simplifie la création, la mise à jour, la suppression et la récupération d'objets en se basant sur les modèles Django et les requêtes QuerySet. Une manière efficace de gérer les données de votre API.
+
+Qu'est-ce qu'un Router ?
+Un Router génère automatiquement les URLs associées à vos ViewSets. Oubliez la définition manuelle des URLs pour chaque action, laissez les routeurs s'en charger pour vous. Un gain de temps et de code !
+
+Économisez du Code avec les Routers
+L'utilisation d'un routeur vous permet de générer automatiquement les URLs pour vos ViewSets, ce qui équivaut à économiser du code. Découvrez comment simplifier la définition des URLs de votre API avec cette astuce !
+
