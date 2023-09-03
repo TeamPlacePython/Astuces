@@ -113,3 +113,5 @@ __________
 <a href="https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/methodes.md/defaut_router.md" target="_blank">05/09/2013 - defaut router</a>
 
 <a href="https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/relations/HyperlinkedModelSerializer.md" target="_blank">06/09/2013 - HyperlinkedModelSerializer</a>
+
+<a href="https://github.com/TeamPlacePython/Astuces/blob/main/RESTFramework/setrializer.md/s%C3%A9rialiseurs_imbriqu%C3%A9s.md" target="_blank">07/09/2013 - Serializer imbriqués</a>
